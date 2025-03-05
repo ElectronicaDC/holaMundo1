@@ -16,7 +16,7 @@ public class HolaMundo
     public HolaMundo()
     {
         // initialise instance variables
-        x = 330;
+        x = 1030;
     }
 
     /**
