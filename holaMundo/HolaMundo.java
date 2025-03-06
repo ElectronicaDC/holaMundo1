@@ -28,6 +28,6 @@ public class HolaMundo
     public int sampleMethod(int y)
     {
         // put your code here
-        return 2 + y;
+        return 2 + 23;
     }
 }
